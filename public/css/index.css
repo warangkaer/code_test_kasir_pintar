@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html, body, body > div{
+    min-height: 100% !important;
+    height: 100%;
+}
+
+header{
+    box-shadow: 7px 0px 5px 0px #f09700;
+}
+
+.active{
+    color: #f09700;
+}
